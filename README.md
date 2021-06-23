@@ -7,7 +7,7 @@ It is a django web app as well as api for ecommerce web app. I is made with djan
 - First Clone this repo
 
 ```bash
-    git clone https://github.com/yashgo0018/django-ecommerce
+    git clone https://github.com/SteveParadox/djangEcommerce.git
 ```
 
 - Change into the project directory
